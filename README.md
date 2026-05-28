@@ -1,6 +1,6 @@
 # Ejercicios y Prácticas de Programación I (2026)
 
-Este repositorio contiene una recopilación de todos los ejercicios, talleres y prácticas de lógica desarrollados durante el año académico **2026** para la materia de **Programación I**, enfocada completamente en el aprendizaje del **Lenguaje C**.
+Este repositorio contiene una recopilación de todos los ejercicios, talleres y prácticas de lógica desarrollados durante el año académico **2026** para la materia de **Programación I**, enfocado completamente en el aprendizaje del **Lenguaje C**.
 
 ## 🚀 Tecnologías y Herramientas Utilizadas
 * **Lenguaje:** C (Estándar ANSI C / GCC)
