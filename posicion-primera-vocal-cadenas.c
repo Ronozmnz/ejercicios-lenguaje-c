@@ -23,7 +23,7 @@ int main() {
         }
     }
 
-    if (posicion == 1) {
+    if (encontrado == 1) {
         printf("La primera vocal se encuentra en la posición: %d\n", posicion+1);
     } else {
         printf("No se encontraron vocales en la cadena.\n");
