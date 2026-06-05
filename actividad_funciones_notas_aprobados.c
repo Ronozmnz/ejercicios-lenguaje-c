@@ -15,7 +15,7 @@ void contar_excelentes(int notas[], int tam); // Prototipo de la función para c
 
 int main() {
 	
-	int tam = 10; // Tamaño del vector de notas.
+	int tam = 5; // Tamaño del vector de notas.
 	int notas[tam]; // Declaración del vector de notas.
 	
 	llenar_vector(notas, tam); // Llenamos el vector de notas con los datos ingresados por el usuario.
